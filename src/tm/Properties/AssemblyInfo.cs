@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Sergey Kucherov")]
 [assembly: AssemblyProduct("Time Manager")]
-[assembly: AssemblyCopyright("Copyright © 2005-2008, Sergey Kucherov")]
+[assembly: AssemblyCopyright("Copyright © 2005-2017, Sergey Kucherov")]
 [assembly: AssemblyTrademark("http://skch.net/columns/time.html")]
 [assembly: AssemblyCulture("")]
 
@@ -30,4 +30,4 @@ using System.Runtime.InteropServices;
 //      Revision
 //
 [assembly: AssemblyVersion("1.0.0.*")]
-[assembly: AssemblyFileVersion("1.2.9.248")]
+[assembly: AssemblyFileVersion("1.2.11.120")]
