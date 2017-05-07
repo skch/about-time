@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8' ?>
+<TODO>
+<Tasks>
+  <Task activity='Writing' scope='Work' duration='1' start='10/11/2007' due='11/17/2007'>
+    <Repeat period='Years' times='1' />
+    <title>Task name</title>
+    <text>Any comments here</text>
+  </Task>
+</Tasks>
+</TODO>
